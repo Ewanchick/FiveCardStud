@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Dealer
+comment0.text=\r\n\ Have\ the\ Dealer\ extend\ Player\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=stash
+comment1.target=Dealer(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Dealer\r\n
+comment2.params=
+comment2.target=Card\ deal()
+comment2.text=\r\n\ deal\ will\ return\ a\ card\ from\ the\ deck\r\n\ @return\ Card\ a\ card\ from\ the\ deck\r\n
+comment3.params=
+comment3.target=void\ resetDeck()
+comment3.text=\r\n\ resetDeck\ replaces\ the\ deck\ with\ a\ new\ shuffled\ 52\ card\ deck\r\n
+numComments=4
